@@ -30,7 +30,7 @@ public class Practice1 {
 	over(10,12.24f,'D', "overloading value",21.20);//4th.
 	over(10,20,35246,true,'G',40);//5th
 	Practice1 a1= new Practice1();// Creating an object of non static method for MethodOverloading.
-	Practice1.over(693656,20.20f);
+	a1.over(693656,20.20f);
 	}
 	}
 	
