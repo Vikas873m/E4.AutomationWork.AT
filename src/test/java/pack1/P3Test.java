@@ -7,5 +7,6 @@ public class P3Test {
 	public void add() {
 		System.out.println("Hellow word");
 		System.out.println("Hellow word");
+		System.out.println("Hellow word");
 	}
 }
