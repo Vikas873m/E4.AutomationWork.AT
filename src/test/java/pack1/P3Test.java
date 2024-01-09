@@ -1,7 +1,9 @@
 package pack1;
 
-public class P3 {
+import org.testng.annotations.Test;
 
+public class P3Test {
+@Test
 	public void add() {
 		System.out.println("Hellow word");
 		System.out.println("Hellow word");
